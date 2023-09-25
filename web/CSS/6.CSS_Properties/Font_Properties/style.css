@@ -1,0 +1,20 @@
+html{
+    background-color:#ff5457;
+}
+#info{
+    color: aliceblue;
+    background-color: blueviolet;
+    border-radius: 5%;
+}
+#aman-image{
+    height: 300px;
+    width: 300;
+    border-radius: 40%;
+}
+.link{
+    background-color:aqua;
+    font-size: 30px;
+}
+.Section1-info{
+    text-align: center;
+}

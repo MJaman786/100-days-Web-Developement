@@ -1,0 +1,39 @@
+/* styles.css */
+
+html {
+    background-color: black;
+}
+
+.white-text {
+    color: aliceblue;
+    font-size:x-large;
+    font-style: oblique;
+}
+
+.red-text {
+    color: aqua;
+}
+
+.blue-text {
+    color: blue;
+}
+
+#page3{
+    color:azure;
+}
+
+#page4{
+    color:chartreuse;
+}
+
+#page5{
+    color:coral;
+}
+
+#page6{
+    color:rgb(52, 146, 146);
+}
+
+#page7{
+    color:rgb(86, 4, 80);
+}

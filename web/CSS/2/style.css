@@ -1,0 +1,25 @@
+html{
+    background-color: aqua;
+  }
+  
+  #line1 {
+    text-align: center;
+    margin-left: -40px;
+    margin-top: -20px;
+    font-size: 12px;
+    color:black;
+  }
+  
+  p[draggable="true"]{
+    text-align: center;
+    color:white
+  }
+  
+  p[draggable="false"]{
+    color: blue;
+    text-align: center;
+  }
+  
+  h1{
+    text-align: center;
+  }
