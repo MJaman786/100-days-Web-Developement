@@ -1,0 +1,60 @@
+/*html {
+    background-image: url("../Assets/Rangoku.jpg");
+    background-size: cover;
+    
+}
+*/
+
+.form {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 30%;
+    border-radius: 15px;
+    border:1px solid gray;
+    background-color: rgba(225, 225, 225, 0.3);
+}
+
+label {
+    margin-top: 20px;
+    padding: 4%;
+    margin-left: 4%;
+    color:#007BFF;
+}
+
+input {
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-bottom: 5%;
+    width: 150px;
+    height: 25px;
+    border-color: aliceblue;
+    border-radius: 15px;
+}
+
+.login-link {
+    display: inline-block;
+    margin-left: 30%; 
+    padding: 5px 20px; 
+    margin-top: 4%;
+    margin-bottom: 5%;
+    background-color: #007BFA; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 15px;
+}
+
+.login-link:hover {
+    background-color: #0056b4; 
+}
+
+img{
+    width: 160px;
+    height: 80px;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+}
