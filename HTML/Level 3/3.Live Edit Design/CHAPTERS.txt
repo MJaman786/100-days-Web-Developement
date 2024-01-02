@@ -1,0 +1,4 @@
+1. Live edit HTML
+2. Live edit CSS
+3. Live edit JS
+4. Changes only happing at client

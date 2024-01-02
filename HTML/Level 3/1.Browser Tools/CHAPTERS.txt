@@ -1,0 +1,4 @@
+
+1. View Page Source
+2. Inspect Element
+3. HTML without CSS
