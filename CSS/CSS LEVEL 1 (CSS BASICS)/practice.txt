@@ -1,0 +1,9 @@
+1. Create a heading and set the text color red
+
+2. Create a div wiith id heading, include css using all 3 ways (inline, style tag, external)
+
+3. Add comments to your css class 
+
+4. Create a div, paragraph and heading and use id selector, element selector and class selector for them
+
+5. Create two divs with id first and secound define for both using group selector

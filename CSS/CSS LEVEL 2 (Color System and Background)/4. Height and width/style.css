@@ -1,0 +1,26 @@
+#box1 {
+    color: red;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 5px solid black;
+}
+
+#box2 {
+    color: aqua;
+    background-color: yellowgreen;
+    height: 100px;
+    width: 90px;
+    text-align: center;
+    padding: 2px;
+}
+
+#box3 {
+    color: rgb(4, 104, 104);
+    background-color: moccasin;
+    height: 100px;
+    width: 90px;
+    text-align: center;
+    padding: 2px;
+}

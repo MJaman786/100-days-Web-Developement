@@ -1,0 +1,37 @@
+<!--
+    internal/inline styling
+        -defined within element tag
+    external styling
+        -defined in style sheet file by linking it to index.html
+
+    more priority is given to internal styling
+
+    internal/inline > external
+
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: azure;
+        }
+        h1{
+            color: red;
+        }
+        p{
+            color: rgb(166, 84, 166);
+            font-size: larger;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>This is Heading without inline style tag</h1>
+    <h1 style="color: magenta;">This is Heading Tag with inline style tag</h1>
+    <p style="color: rgba(18, 10, 10, 0.603);">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam ullam ratione vel aperiam quia corporis! Sed deserunt labore illo hic alias sunt commodi nostrum officiis, nihil vitae suscipit voluptate similique, vel excepturi reiciendis ex perspiciatis porro inventore animi dolorum qui, voluptas iste quaerat corporis. Officia tenetur, pariatur nemo beatae quisquam totam soluta aperiam id tempore consequuntur veritatis reiciendis odio voluptatum obcaecati fugit sequi odit quae suscipit ipsa error distinctio? Assumenda dignissimos, quasi quam eaque molestias eius, hic cum ipsa quibusdam et minima. Voluptatem temporibus animi ex, blanditiis fugiat mollitia sint repudiandae eos sunt debitis tempora! Rem consequuntur quibusdam quos animi?</p>
+</body>
+</html>

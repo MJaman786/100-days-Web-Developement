@@ -1,0 +1,14 @@
+#Box{
+    border: 1.4px solid grey;
+    height: 300px;
+    width: 400px;
+    border-radius: 25px;
+}
+
+#Box h1{
+    font-size: 25px;
+    /* Text - Aligin - Property */
+    text-align: left;
+    text-align: right;
+    text-align: center;
+}

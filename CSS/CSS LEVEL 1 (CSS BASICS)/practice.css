@@ -1,0 +1,19 @@
+/* 1. */
+h1{
+    color: red;
+}
+
+/* 2. */
+#heading h1{
+    color: chocolate;
+}
+
+/* 3. */
+/* #heading h1{
+    color: chocolate;
+} */
+
+/* 4. */
+#Paragraph_and_heading p{
+    color: lawngreen;
+}

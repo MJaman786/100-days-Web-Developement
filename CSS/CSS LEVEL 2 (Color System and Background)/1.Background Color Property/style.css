@@ -1,0 +1,17 @@
+*{
+    color: blue;
+    font-size: 30px;
+}
+
+#colors .orange-color h1{
+    background-color: rgba(203, 72, 25, 0.66);
+}
+
+#colors .orange-color .white-color h1{
+    background-color: rgb(220, 233, 233);
+}
+
+#colors .orange-color .white-color .green-color h1 {
+    background-color: green;
+}
+

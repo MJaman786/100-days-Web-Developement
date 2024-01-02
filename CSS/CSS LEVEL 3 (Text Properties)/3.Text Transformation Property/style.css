@@ -1,0 +1,25 @@
+.box{
+    font-size: 15px;
+    border: 1px solid black;
+    height: 100px;
+    width: 250px;
+    border-radius: 23px 10px;
+    background-color: black;
+    color: white;
+}
+
+#box1 h1{
+    text-transform: capitalize;
+    text-align: center;
+}
+
+#box2 h1{
+    text-transform: lowercase;
+    text-align: center;
+}
+
+#box3 h1{
+    text-transform: uppercase;
+    text-align: center;
+    
+}

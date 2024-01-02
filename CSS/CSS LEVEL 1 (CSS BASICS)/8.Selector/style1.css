@@ -1,0 +1,21 @@
+/* p{
+    color: magenta;
+}
+
+.first p{
+    color: mediumblue;
+} */
+#first #p1{
+    font-size: 20px;
+    color: black;
+}
+
+#first #p2{
+    font-size: 25px;
+    color: hotpink;
+}
+
+#first #p3{
+    font-size: 30px;
+    color: blueviolet;
+}

@@ -1,0 +1,18 @@
+h1{
+    color: black;
+    /* 
+    MDN Reference:
+        https://developer.mozilla.org/docs/Web/CSS/color 
+    */
+}
+
+p{
+    color: rgb(210, 137, 228);
+    background-color:rgb(178, 238, 219);
+    border-radius: 20px;
+    text-align:center;
+    /* 
+    MDN Reference:display:
+        https://developer.mozilla.org/docs/Web/CSS/text-align 
+    */
+}
