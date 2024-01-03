@@ -1,0 +1,70 @@
+/* Relative Unit : ' % ' */
+
+/* *{
+    font-size: 30px;
+    text-align: center;
+} */
+
+#first{
+    border: 2px solid black;
+    background-color: aquamarine;
+    height: 500px;
+    width: 500px;
+}
+#secound{
+    border: 2px solid black;
+    background-color: red;
+    /* ' % ' */
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+}
+
+/* Relative Unit : ' em ' with respect to parent*/
+
+#third{
+    margin-top: 20px;
+    border: 2px solid black;
+    background-color: aquamarine;
+    height: 500px;
+    width: 500px;
+    
+    font-size: 20px;
+}
+#fourth{
+    border: 2px solid black;
+    background-color: red;
+    /* ' rem ' */
+    height: 50%;
+    width: 50%;
+    margin: 20px; 
+
+    font-size: 2em;
+}
+
+/* Relative Unit : 'rem' with respect to body */
+/* 
+*{
+    font-size: 10px;
+}
+
+#third{
+    margin-top: 20px;
+    border: 2px solid black;
+    background-color: aquamarine;
+    height: 500px;
+    width: 500px;
+    
+    font-size: 20px;
+}
+#fourth{
+    border: 2px solid black;
+    background-color: red;
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+
+    font-size: 2rem;
+} */
+
+/* Relative Unit : 'vw/vh' with respect to viewport*/

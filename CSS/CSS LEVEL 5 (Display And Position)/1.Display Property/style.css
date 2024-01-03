@@ -1,0 +1,99 @@
+/* 1. Display Property : BLOCK */
+#parent{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(244, 128, 244);
+    margin: 30px;
+
+    display: block;
+
+}
+#parent .box{
+    border: 0.5px solid black;
+    border-radius: 8px;
+    background-color: mediumspringgreen;
+    margin: 30px;
+}
+
+#parent .box h1{
+    text-align: center;
+}
+
+/* 2. Display Property : INLINE */
+
+#c1{
+    height: 100px;
+    width: 600px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(244, 128, 244);
+    margin: 30px;
+    /* display: flex; */
+}
+#c1 .box{
+    height: 40px;
+    width: 50px;
+    border: 0.5px solid rgb(0, 6, 2);
+    border-radius: 8px;
+    background-color: mediumspringgreen;
+    margin: 20px 30px 10px 30px;
+    display: inline-block;
+}
+
+#c1 .box h1{
+    text-align: center;
+    /* margin: 0px; */
+}
+
+/* 3. Display Property : FLEX */
+
+#c2{
+    height: 100px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(244, 128, 244);
+    margin: 30px;
+
+    display: flex;
+
+}
+#c2 .box{
+    border: 0.5px solid black;
+    border-radius: 8px;
+    background-color: mediumspringgreen;
+    margin: 0px;
+}
+
+#c2 .box h1{
+    text-align: center;
+}
+
+/* Display Property : Grid */
+
+#c3{
+    height: 300px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(244, 128, 244);
+    margin: 30px;
+
+    display: grid;
+
+}
+#c3 .box{
+    border: 0.5px solid black;
+    border-radius: 8px;
+    background-color: mediumspringgreen;
+    margin: 0px;
+}
+
+#c3 .box h1{
+    text-align: center;
+}
+
+/* Display property : none */
+
